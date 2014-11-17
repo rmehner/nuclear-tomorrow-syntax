@@ -5,6 +5,18 @@
   color: @syntax-text-color;
 }
 
+.select-list {
+  li {
+    &.selected {
+      background-color: @syntax-gutter-background-color-selected;
+
+      .word {
+        color: @syntax-gutter-text-color-selected;
+      }
+    }
+  }
+}
+
 .editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
@@ -56,8 +68,9 @@
   }
 }
 
+// foo
 .comment {
-  color: @light-gray;
+  color: @dark-gray;
 }
 
 .entity {
