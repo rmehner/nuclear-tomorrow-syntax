@@ -1,6 +1,6 @@
 @import "syntax-variables";
 
-.editor-colors {
+:host, atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 }
@@ -21,7 +21,7 @@
   }
 }
 
-.editor {
+:host, atom-text-editor {
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 
@@ -316,6 +316,6 @@
   }
 }
 
-.editor.mini .scroll-view {
+atom-text-editor[mini] .scroll-view {
   padding-left: 1px;
 }
