@@ -7,7 +7,8 @@ quite good with my setup.
 
 ## Screenshot
 
-![](nuclear-tomorrow-syntax.png)
+![](https://cloud.githubusercontent.com/assets/82050/23802213/e3a14742-05b2-11e7-9c64-3ebd2c8e3c6b.png)
+
 
 - UI Theme: One Light
 - Font: Fira Mono / Fira Code (still getting the hang out of proper ligatures)
