@@ -1,7 +1,7 @@
 {
   "name": "nuclear-tomorrow-syntax",
   "theme": "syntax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A proper working version of the Tomorrow theme for Atom",
   "repository": "https://github.com/rmehner/nuclear-tomorrow-syntax",
   "license": "MIT",
