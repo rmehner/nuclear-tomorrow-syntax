@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Fix missing screenshot in README
+
 ## 1.0.0
 
 * Atom 1.13.0 compatibility
