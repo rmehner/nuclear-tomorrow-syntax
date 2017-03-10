@@ -1,6 +1,7 @@
 ## 1.0.1
 
 * Fix missing screenshot in README
+* Add engines < 2.0.0 to package.json
 
 ## 1.0.0
 
