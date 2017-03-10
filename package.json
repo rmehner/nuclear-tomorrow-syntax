@@ -1,11 +1,11 @@
 {
   "name": "nuclear-tomorrow-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "A proper working version of the Tomorrow theme for Atom",
   "repository": "https://github.com/rmehner/nuclear-tomorrow-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.205.0"
+    "atom": ">=1.13.0"
   }
 }
