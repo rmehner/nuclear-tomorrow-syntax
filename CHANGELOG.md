@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Fix screenshot again
+
 ## 1.0.1
 
 * Fix missing screenshot in README
