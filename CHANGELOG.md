@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Fix highlightning of variables
+
 ## 1.0.2
 
 * Fix screenshot again
